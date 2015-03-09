@@ -1,0 +1,2 @@
+# JGPotentiometer
+Potentiometer for IOS
